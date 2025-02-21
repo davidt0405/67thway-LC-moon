@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3092033014
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tttmoon.lethalbundle
+      Dependencies: {}
+    Info_1:
+      Name: tttmoonscene.lethalbundle
+      Dependencies: {}
