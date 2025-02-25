@@ -1,8 +1,13 @@
+### Update 1.0.3:
+
+* Fixed some layering issues on the house building
+* Hopefully improved performance by optimizing the house building
+
 ### Update 1.0.2:
 
-* Credited Audio Knight/Starlancer for his moon creation tutorial
+* Added the house building, currently nothing inside of it but that will probably change in the future, for now use it to just hide from the mass amounts of enemies
 * Shortened level description so it doesn't overflow the monitor
-* Added the house building, currently nothing inside of it but that will probably change in the future, for now use it to just hide from the mass amounts of enemies.
+* Credited Audio Knight/Starlancer for his moon creation tutorial
 
 ### Update 1.0.0:
 
