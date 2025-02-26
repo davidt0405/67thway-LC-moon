@@ -1,8 +1,8 @@
 {
     "name": "Boulevard",
-    "version_number": "1.0.3",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/davidt0405/67thway-LC-moon",
-    "description": "This mod adds a moon called Boulevard. This moon is designed after the map ttt_67thway from the game Garry's Mod. It's meant to be a high risk, slightly higher reward free moon for those who like the Mansion map and high enemy spawn rates.",
+    "description": "A high risk, slightly higher reward free moon for those who like the Mansion map and high enemy spawn rates.",
     "dependencies": [
         "IAmBatby-LethalLevelLoader-1.4.11",
 	"BepInEx-BepInExPack-5.4.2100"

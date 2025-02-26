@@ -6,4 +6,4 @@ It's meant to be a high risk, slightly higher reward free moon for those who lik
 
 This is my first map, extremely WIP as there will be buildings and things outside the walls to not make it feel so empty.
 
-HUGE Shoutout to Audio Knight/Starlancer for his video tutorial on how to make custom moons, truly a goat in the community.
+HUGE Shoutout to the community goat Audio Knight/Starlancer for his video tutorial on how to make custom moons, aswell as all the helpful people in the LC Modding Discord.

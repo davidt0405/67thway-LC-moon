@@ -1,3 +1,8 @@
+### Update 1.0.4:
+
+* Fixed an issue with the tunnel meshes that was introduced in 1.0.3
+* Fixed an issue with the ship camera locking up after exiting the ship
+
 ### Update 1.0.3:
 
 * Fixed some layering issues on the house building
